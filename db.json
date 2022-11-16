@@ -1,7 +1,37 @@
- "students": {
+ {
+  "students": [
     {
       "id": 1,
       "Fullname": "Mohamed Bidouk",
       "age": 19,
       "University": "Iset nabeul"
+    },
+    {
+      "id": 2,
+      "Fullname": "Mohamed Bidouk",
+      "age": 19,
+      "University": "Iset nabeul"
+    },
+    {
+      "id": 3,
+      "Fullname": "Mohamed Bidouk",
+      "age": 19,
+      "University": "Iset nabeul"
     }
+  ],
+  "note": [
+    {
+      "id": 1,
+      "Angular": 12,
+      "SpringBoot": 16
+    },
+    {
+      "id": 2,
+      "Angular": 12,
+      "SpringBoot": 16
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
