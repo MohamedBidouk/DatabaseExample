@@ -2,9 +2,17 @@
   {
     name: "Mohamed",
     age: 9
-  }
+  },
   {
     name: "Eya",
     age: 6
-  }
+  },
+    {
+    name: "Souhail",
+    age: 16
+  },
+    {
+    name: "Amira",
+    age: 64
+  },
 ]
